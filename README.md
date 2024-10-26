@@ -74,10 +74,12 @@ This project implements a real-time weather monitoring system that retrieves dat
 1. Start the MySQL server (if not already running).
   
 2. Run the weather data fetcher:
+   
    Code: python weather_data_fetcher.py
+   
    Code: python weather_data_processor.py
 
-3. To generate visualizations:
+4. To generate visualizations:
    Code: python weather_data_visualization.py
 
 ## Test Cases
